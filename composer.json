@@ -1,0 +1,25 @@
+{
+    "name": "developeruz/yii2-drop-down-input-widget",
+    "description": "yii2 dropDown input widget for Yii2",
+    "keywords": ["yii2", "widget", "dropDown"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elvira Sheina",
+            "email": "elleuz@gmail.com",
+            "homepage": "http://developer.uz"
+        }
+    ],
+    "require" : {
+        "yiisoft/yii2": "*"
+    },
+    "support": {
+        "issues": "https://github.com/developeruz/yii2-drop-down-input-widget/issues"
+    },
+    "autoload": {
+        "psr-4": {
+            "developeruz\\drop_down\\": ""
+        }
+    }
+}
